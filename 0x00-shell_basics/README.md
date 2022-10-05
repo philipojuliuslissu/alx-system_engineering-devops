@@ -1,2 +1,1 @@
-#!/bin/bash
-Second README
+displaying script to print absolute path name of the currend working directory
